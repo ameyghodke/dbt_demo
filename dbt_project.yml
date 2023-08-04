@@ -37,3 +37,8 @@ models:
     example:
       +schema: trns
       materialized: view
+
+seeds:
+  my_new_project:
+    +enabled: true
+    +schema: reference
