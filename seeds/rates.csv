@@ -1,0 +1,5 @@
+rate_id,category,discount_percentage
+1,premier,.3
+2,elite,.3
+3,premium,.2
+4,economy,.1
