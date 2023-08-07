@@ -6,7 +6,7 @@
         {{ default_schema }}
 
     {%- else -%}
--- edited this macro so the default schema name is not concatenated
+{# edited this macro so the default schema name is not concatenated #}
        {{ custom_schema_name }}  
 
     {%- endif -%}
